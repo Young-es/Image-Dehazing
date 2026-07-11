@@ -21,4 +21,4 @@ After taking the course on image processing, I organized some classic methods sy
 
 **4. 雾线先验也是提出一种新的计算透射率的方式，把每个地方的透射率分门别类，学习心得在我的 HIP 文件夹中。**
 
-**5. AOD-Net 比较经典，跑出来的效果也比较好，我主要是复现别人的工作 fork 在 PyTorch-Image-Dehazing 仓库，尝试训练了一下，效果还可以。**
+**5. AOD-Net 比较经典，跑出来的效果也比较好，我主要是复现别人的工作 fork 在 PyTorch-Image-Dehazing 仓库，尝试训练了一下，效果还可以，端到端的方法鲁棒性好。**
